@@ -1,0 +1,14 @@
+{
+  "name": "bowling",
+  "version": "1.0.0",
+  "description": "scores player results",
+  "main": "score.js",
+  "scripts": {
+    "test": "node score.js"
+  },
+  "author": "nino r",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
